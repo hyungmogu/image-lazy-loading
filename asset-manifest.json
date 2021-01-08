@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/image-lazy-loading/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/image-lazy-loading/static/js/main.9dc95a14.chunk.js",
+    "main.js.map": "/image-lazy-loading/static/js/main.9dc95a14.chunk.js.map",
+    "runtime-main.js": "/image-lazy-loading/static/js/runtime-main.ebc0837f.js",
+    "runtime-main.js.map": "/image-lazy-loading/static/js/runtime-main.ebc0837f.js.map",
+    "static/js/2.7b667047.chunk.js": "/image-lazy-loading/static/js/2.7b667047.chunk.js",
+    "static/js/2.7b667047.chunk.js.map": "/image-lazy-loading/static/js/2.7b667047.chunk.js.map",
+    "static/js/3.a63139f9.chunk.js": "/image-lazy-loading/static/js/3.a63139f9.chunk.js",
+    "static/js/3.a63139f9.chunk.js.map": "/image-lazy-loading/static/js/3.a63139f9.chunk.js.map",
+    "index.html": "/image-lazy-loading/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/image-lazy-loading/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7b667047.chunk.js.LICENSE.txt": "/image-lazy-loading/static/js/2.7b667047.chunk.js.LICENSE.txt",
+    "static/media/corgi.e7cef40e.jpg": "/image-lazy-loading/static/media/corgi.e7cef40e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebc0837f.js",
+    "static/js/2.7b667047.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9dc95a14.chunk.js"
+  ]
+}
